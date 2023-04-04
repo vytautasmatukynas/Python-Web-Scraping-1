@@ -1,5 +1,5 @@
 # Python-Web-Scraping-1
-This app scrapes top 100 movies list from imdb and creates .txt file.
+This app scrapes top 100 movies list from "https://www.imdb.com/search/title/?groups=top_100" and creates .txt file.
 
 ![paveikslas](https://user-images.githubusercontent.com/51360361/229804010-a1e282f1-4435-40e4-a60c-a4480ec4b511.png)
 
