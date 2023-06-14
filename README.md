@@ -1,5 +1,5 @@
 # Python-Web-Scraping-1
-My first web scraping script with bs4.
+My first web scraping script with BeautifulSoup and Python.
 
 This app scrapes top 100 movies list from "https://www.imdb.com/search/title/?groups=top_100" and creates .txt file.
 
